@@ -1,0 +1,2 @@
+# klasifikasi-suara-uas
+UAS MATA KULIAH ARTIFICIAL INTELEGENT
